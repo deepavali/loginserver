@@ -10,3 +10,14 @@ then after training open command prompt and run app.py then you will get a url t
 If you dont have test data So please visit above url to get the dataset where you will get train,validation and test dataset with four classes.
 
 Your model is trained wth train and validation dataset and you can test model with test dataset.
+
+For this project download the following files
+a. Screenshot
+b. static
+c. templates
+app.py
+cotton-disease.ipynb
+predicted_cotton_disease_model.h5
+Procfile
+requirements
+readme.md
